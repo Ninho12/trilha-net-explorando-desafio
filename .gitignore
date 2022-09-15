@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Pasta de Debug
+/.vscode
+
 # User-specific files
 *.rsuser
 *.suo
